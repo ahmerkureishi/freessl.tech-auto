@@ -12,7 +12,7 @@ This app/client issues and installs free SSL certificates automatically in <b>sh
 
 1.    You can install and configure this client/app using your favorite web browser.
 2.    Option to generate a free SSL certificate before you install the app. You get this option if you attempt to install the app over HTTP. So, no need to enter database and login credentials on an insecure page during installation of this app.
-3.    Both Let’s Encrypt ACME version 1 and 2 API supported.
+3.    Let’s Encrypt ACME version 2 API supported.
 4.    Get WildCard SSL certificate for free!
 5.    This app installs free SSL certificate automatically on cPanel shared hosting.
 6.    Choose the number of days before the expiry date you want to renew the SSL. The default value is 30, which is recommended by Let's Encrypt.
