@@ -57,6 +57,8 @@ In either case, all the processes (Let’s Encrypt account registration, domain 
 
 Please click this link (https://freessl.tech/documentation-free-ssl-certificate-automation) for the detail documentation with screenshots.
 
+# Ahmer: I had to enable php version 8 in composer.json and run "composer update --no-scripts" before it worked.
+
 # Credits
 
  - <a href="https://letsencrypt.org">Let's Encrypt</a>
